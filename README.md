@@ -1,5 +1,5 @@
 # goodKid
-获取项目后执行
-  npm install
-执行项目
-  ionic serve
+获取项目后执行<br>
+  npm install<br>
+执行项目<br>
+  ionic serve<br>
