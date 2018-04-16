@@ -1,0 +1,169 @@
+{
+  "www/templates/rae-tj.html": {
+    "href": "www/templates/rae-tj.html",
+    "priority": 0
+  },
+  "www/templates/dash-share.html": {
+    "href": "www/templates/dash-share.html",
+    "priority": 0
+  },
+  "www/templates/account-integral.html": {
+    "href": "www/templates/account-integral.html",
+    "priority": 0
+  },
+  "www/templates/dash-info.html": {
+    "href": "www/templates/dash-info.html",
+    "priority": 0
+  },
+  "www/templates/account-notice.html": {
+    "href": "www/templates/account-notice.html",
+    "priority": 0
+  },
+  "www/templates/tab-dash.html": {
+    "href": "www/templates/tab-dash.html",
+    "priority": 0
+  },
+  "www/templates/cash-gift.html": {
+    "href": "www/templates/cash-gift.html",
+    "priority": 0
+  },
+  "www/templates/tab-home.html": {
+    "href": "www/templates/tab-home.html",
+    "priority": 0
+  },
+  "www/templates/account-user.html": {
+    "href": "www/templates/account-user.html",
+    "priority": 0
+  },
+  "www/templates/account-feed.html": {
+    "href": "www/templates/account-feed.html",
+    "priority": 0
+  },
+  "www/templates/account-rae.html": {
+    "href": "www/templates/account-rae.html",
+    "priority": 0
+  },
+  "www/templates/record.html": {
+    "href": "www/templates/record.html",
+    "priority": 0
+  },
+  "www/templates/car.html": {
+    "href": "www/templates/car.html",
+    "priority": 0
+  },
+  "www/templates/account-people.html": {
+    "href": "www/templates/account-people.html",
+    "priority": 0
+  },
+  "www/templates/tabs.html": {
+    "href": "www/templates/tabs.html",
+    "priority": 0
+  },
+  "www/templates/person.html": {
+    "href": "www/templates/person.html",
+    "priority": 0
+  },
+  "www/templates/account-coupons.html": {
+    "href": "www/templates/account-coupons.html",
+    "priority": 0
+  },
+  "www/templates/tab-tool.html": {
+    "href": "www/templates/tab-tool.html",
+    "priority": 0
+  },
+  "www/templates/account-shezhi.html": {
+    "href": "www/templates/account-shezhi.html",
+    "priority": 0
+  },
+  "www/templates/popular.html": {
+    "href": "www/templates/popular.html",
+    "priority": 0
+  },
+  "www/templates/tool-main.html": {
+    "href": "www/templates/tool-main.html",
+    "priority": 0
+  },
+  "www/templates/feed-history.html": {
+    "href": "www/templates/feed-history.html",
+    "priority": 0
+  },
+  "www/templates/home-add.html": {
+    "href": "www/templates/home-add.html",
+    "priority": 0
+  },
+  "www/templates/pie.html": {
+    "href": "www/templates/pie.html",
+    "priority": 0
+  },
+  "www/templates/account-images.html": {
+    "href": "www/templates/account-images.html",
+    "priority": 0
+  },
+  "www/templates/images-detail.html": {
+    "href": "www/templates/images-detail.html",
+    "priority": 0
+  },
+  "www/templates/tab-account.html": {
+    "href": "www/templates/tab-account.html",
+    "priority": 0
+  },
+  "www/templates/shop.html": {
+    "href": "www/templates/shop.html",
+    "priority": 0
+  },
+  "www/templates/account-head.html": {
+    "href": "www/templates/account-head.html",
+    "priority": 0
+  },
+  "www/templates/money.html": {
+    "href": "www/templates/money.html",
+    "priority": 0
+  },
+  "www/index.html": {
+    "href": "www/index.html",
+    "resources": [
+      "www/manifest.json",
+      "www/lib/ionic/css/ionic.css",
+      "www/css/style.css",
+      "www/lib/ionic/js/ionic.bundle.js",
+      "www/lib/ngCordova/ng-cordova.js",
+      "www/js/app.js",
+      "www/js/controllers.js",
+      "www/js/services.js",
+      "www/js/echarts.min.js"
+    ],
+    "refer": [
+      "www/templates/rae-tj.html",
+      "www/templates/dash-share.html",
+      "www/templates/account-integral.html",
+      "www/templates/dash-info.html",
+      "www/templates/account-notice.html",
+      "www/templates/tab-dash.html",
+      "www/templates/cash-gift.html",
+      "www/templates/tab-home.html",
+      "www/templates/account-user.html",
+      "www/templates/account-feed.html",
+      "www/templates/account-rae.html",
+      "www/templates/record.html",
+      "www/templates/car.html",
+      "www/templates/account-people.html",
+      "www/templates/tabs.html",
+      "www/templates/person.html",
+      "www/templates/account-coupons.html",
+      "www/templates/tab-tool.html",
+      "www/templates/account-shezhi.html",
+      "www/templates/popular.html",
+      "www/templates/tool-main.html",
+      "www/templates/feed-history.html",
+      "www/templates/home-add.html",
+      "www/templates/pie.html",
+      "www/templates/account-images.html",
+      "www/templates/images-detail.html",
+      "www/templates/tab-account.html",
+      "www/templates/shop.html",
+      "www/templates/account-head.html",
+      "www/templates/money.html"
+    ],
+    "priority": 0
+  }
+}
